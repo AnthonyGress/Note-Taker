@@ -1,7 +1,7 @@
 # Note Taker [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Screenshot
-
+<img width="1439" alt="Note Taker App" src="https://user-images.githubusercontent.com/70029654/126852576-7bb60dcb-708f-44bc-9551-ccadbee210cf.png">
 
   ## Description
 
